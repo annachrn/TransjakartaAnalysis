@@ -1,12 +1,12 @@
 # Capstone Module 2 menggunakan Data Transjakarta 
 
 ** Dataset:**
-Data Pelanggan Transjakarta di Bulan April 2023 yang terdiri dari  37.900 baris data dan 22 kolo (sebelum dibersihkan) dan 36.556 an 17 kolom (setelah dibersihkan).
+Data Pelanggan Transjakarta di Bulan April 2023 yang terdiri dari  37.900 baris data dan 22 kolom (sebelum dibersihkan) dan 36.556 an 17 kolom (setelah dibersihkan).
 Adapun data yang diperoleh ada beberapa yaitu:
 kode kartu, jenis metode pembayaran, nama pelanggan, gender, tahun kelahiran, nama koridor, direction, nama perhentian dan koordinatnya, waktu tap in dan tap out, dan tarif 
 
 **Teknik analisis:**
-Satistik deskriptif dan statistik inferensial yang menggunakan pengujian korelasi spearman (untuk data kategorikal). 
+Statistik deskriptif dan statistik inferensial yang menggunakan pengujian korelasi spearman (untuk data kategorikal). 
 
 **Key point analisis:** 
 Dari data Transjakarta ini, ada beberapa yang ingi diperoleh insight yang dapat diperoleh adalah:
