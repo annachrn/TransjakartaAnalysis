@@ -1,6 +1,6 @@
 # Capstone Module 2 menggunakan Data Transjakarta 
 
-** Dataset:**
+**Dataset:**
 Data Pelanggan Transjakarta di Bulan April 2023 yang terdiri dari  37.900 baris data dan 22 kolom (sebelum dibersihkan) dan 36.556 an 17 kolom (setelah dibersihkan).
 Adapun data yang diperoleh ada beberapa yaitu:
 kode kartu, jenis metode pembayaran, nama pelanggan, gender, tahun kelahiran, nama koridor, direction, nama perhentian dan koordinatnya, waktu tap in dan tap out, dan tarif 
